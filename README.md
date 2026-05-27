@@ -10,10 +10,7 @@ In the FineWeb-Edu 10K cross-seed experiment, Nanowhale T=1 achieved lower held-
 
 1. `00_README.md` / `README.md`: Overview.
 2. `01_quickstart/EXPERIMENT_INDEX.md`: Experiment map.
-3. `06_reports/main/external_communication_brief_zh.md`: Formal external communication brief.
-4. `06_reports/wiki/WIKI_REPORTS_INDEX.md`: Entry point for Wiki experiments and reports.
-5. `06_reports/all_reports/`: Complete historical report chain.
-6. `02_code/scripts/wiki/`: Wiki-related run scripts.
+3. `02_code/scripts/wiki/`: Wiki-related run scripts.
 
 ## Core Result Table
 
