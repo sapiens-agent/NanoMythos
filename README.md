@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="6f8b303e-2ce1-42f9-9904-cdf8bb40b846" src="https://github.com/user-attachments/assets/243151b7-9b25-4d45-a63f-11419e0c01b0" /># Recurrent Depth as a Testable Architecture Hypothesis: A NanoMythos Validation on FineWeb-Edu
+# Recurrent Depth as a Testable Architecture Hypothesis: A NanoMythos Validation on FineWeb-Edu
 
 
 This technical note reports a small-scale pretraining validation of a **Claude-Mythos-inspired recurrent-depth architecture**. The goal is not to claim that Claude uses this exact design. Instead, we use the open-source **OpenMythos** implementation as an architectural hypothesis, transplant its recurrent-depth idea into a **nanowhale / DeepSeek-V4-style small language model**, and test whether the resulting model improves held-out perplexity under a controlled pretraining setup.
