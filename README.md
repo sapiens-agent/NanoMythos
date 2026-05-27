@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="db4a4a56-0eb0-44e3-813a-e332df541e91" src="https://github.com/user-attachments/assets/e2004dda-b014-44f9-bf02-b3f7352be2e8" />
+
 # Recurrent Depth as a Testable Architecture Hypothesis: A NanoMythos Validation on FineWeb-Edu
 
 
@@ -74,8 +76,6 @@ T = 1
 This is a deliberately conservative choice. T=1 is not meant to represent a dramatic multi-step reasoning loop. It is the minimal configuration that tells us whether the recurrent-path modification is directionally helpful under a fixed pretraining budget.
 
 ---
-
-<img width="1536" height="1024" alt="db4a4a56-0eb0-44e3-813a-e332df541e91" src="https://github.com/user-attachments/assets/e2004dda-b014-44f9-bf02-b3f7352be2e8" />
 
 ## 3. Model Setup: A DeepSeek-V4-Style Small Backbone with a Mythos Core
 
